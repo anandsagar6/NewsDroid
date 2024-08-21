@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NEWSDROID
+
+    </string>
+    <string name="navigation_drawer_open">Yes</string>
+    <string name="navigation_drawer_close">No</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="support">If you have any issues, please take a screenshot and email it to us at </string>
+    <string name="about_us">
+
+We are a dedicated team committed to bringing you the latest and most relevant news from around the world. Our mission is to provide accurate, timely, and engaging news to keep you informed.
+
+Thank you for choosing us as your news source. If you have any feedback or suggestions, feel free to reach out!
+
+</string>
+    <string name="contact">Contact Us: [anandsagar0006@gmail.com]</string>
+</resources>
